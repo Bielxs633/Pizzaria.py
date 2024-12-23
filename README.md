@@ -2,6 +2,8 @@
 
 [Gabriel Soares](https://www.linkedin.com/in/gabriel-soares-3098782b0/)
 
+---
+
 ## Sobre
 Este projeto é um **Sistema de Pizzaria** desenvolvido em **Python**. O sistema permite gerenciar pedidos, selecionar sabores de pizza, calcular valores totais e exibir o pedido detalhado.
 
