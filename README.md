@@ -8,10 +8,10 @@ Este projeto é um **Sistema de Pizzaria** desenvolvido em **Python**. O sistema
 ---
 
 ## Funcionalidades
-- **Menu de Sabores**: Escolha entre diferentes sabores de pizza.
-- **Gerenciamento de Pedidos**: Adicione várias pizzas ao pedido.
-- **Cálculo do Total**: Calcule automaticamente o valor total do pedido.
-- **Interface em Terminal**: Simples e intuitiva, interagindo diretamente pelo terminal.
+1. **Menu de Sabores**: Escolha entre diferentes sabores de pizza.
+2. **Gerenciamento de Pedidos**: Adicione várias pizzas ao pedido.
+3. **Cálculo do Total**: Calcule automaticamente o valor total do pedido.
+4. **Interface em Terminal**: Simples e intuitiva, interagindo diretamente pelo terminal.
 
 ---
 
